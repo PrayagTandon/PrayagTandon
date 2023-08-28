@@ -1,7 +1,7 @@
 ### Hi there!! 👋
 
 # 💫 About Me:
-1. I am a Web developer with expertise in front-end and back-end technologies. Excited to collaborate on GitHub to create innovative and user-friendly web solutions.<br>
+I am a Web developer with expertise in front-end and back-end technologies. Excited to collaborate on GitHub to create innovative and user-friendly web solutions.<br>
 🔭 I’m currently working on Creating React Projects<br>
 🌱 I’m currently learning NodeJS and MongoDB<br>
 💬 Ask me about Front-end technologies
@@ -27,6 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PrayagTandon&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrayagTandon&icon=8&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=PrayagTandon&icon=8&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
