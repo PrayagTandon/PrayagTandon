@@ -17,12 +17,6 @@ I am a Web developer with expertise in front-end and back-end technologies. Exci
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrayagTandon&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrayagTandon&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrayagTandon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PrayagTandon&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
